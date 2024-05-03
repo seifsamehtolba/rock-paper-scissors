@@ -1,5 +1,4 @@
 [![Python Tests](https://github.com/seifsamehtolba/rock-paper-scissors/workflows/Python%20Tests/badge.svg)](https://github.com/seifsamehtolba/rock-paper-scissors/actions?query=workflow:"Python+Tests")
-[![GitHub tag](https://img.shields.io/github/tag/seifsamehtolba/rock-paper-scissors?include_prereleases=&sort=semver&color=blue)](https://github.com/seifsamehtolba/rock-paper-scissors/releases/)
 
 # Rock-Paper-Scissors Game
 
